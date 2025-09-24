@@ -1,0 +1,5 @@
+﻿  Simple_Calculator.cpp
+E:\Yossra_aminFiles\projects of VS community\Simple_Calculator\Simple_Calculator.cpp(728,27): warning C4101: 'remainder': unreferenced local variable
+E:\Yossra_aminFiles\projects of VS community\Simple_Calculator\Simple_Calculator.cpp(1090,31): warning C4101: 'n2': unreferenced local variable
+E:\Yossra_aminFiles\projects of VS community\Simple_Calculator\Simple_Calculator.cpp(1090,27): warning C4101: 'n1': unreferenced local variable
+E:\Yossra_aminFiles\projects of VS community\Simple_Calculator\Simple_Calculator.cpp(1333,1): error C4700: uninitialized local variable 'octalNumber2' used
